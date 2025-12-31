@@ -1,92 +1,45 @@
-# Lalit Meena
+# 💫 About Me
 
-Python Backend Developer  
-Focused on building practical web applications and data-driven tools.
+Hi 👋, I’m **Lalit Meena**  
+**Python Backend Developer** focused on building practical web applications and data-driven tools.
 
----
-
-## About Me
-
-I build backend systems using Python, with experience across Django, Flask, and FastAPI.  
-My work includes REST APIs, CRUD-based applications, and data-processing scripts using SQL and pandas.
-
-I care about clean logic, maintainable code, and understanding problems deeply instead of chasing buzzwords.
-
-If something breaks, I debug it.  
-If something is slow, I profile it.  
-If something is unclear, I simplify it.
+I work with **Django, Flask, FastAPI**, and use **SQL & pandas** for data handling.  
+Most of my projects revolve around **CRUD apps, REST APIs**, and backend logic.
 
 ---
 
-## Tech Stack
-
-**Languages**
-- Python
-- SQL
-
-**Frameworks & Libraries**
-- Django
-- Flask
-- FastAPI
-- Pandas
-- Matplotlib
-
-**Tools & Databases**
-- MongoDB
-- Git & GitHub
-- Bootstrap
-
-**Concepts**
-- REST APIs
-- CRUD Applications
-- Authentication & Authorization (Basics)
-- Backend Logic Design
-- Data Analysis & Visualization
+## 🔭 What I’m Doing
+- Working on backend projects with Django & FastAPI  
+- Improving API design and backend fundamentals  
+- Open to Python backend & data-related collaborations  
 
 ---
 
-## Projects
+## 💻 Tech Stack
 
-### Transaction Tracker
-Python-based project using pandas and matplotlib to track income and expenses.
-- CSV-based storage
-- Expense categorization
-- Basic visualizations
-
-### Django Web Applications
-Multiple Django projects featuring:
-- Forms and validations
-- Models & migrations
-- Search functionality
-- Responsive UI with Bootstrap
-
-### Flask Task Manager
-A clean CRUD task management application following DRY principles.
-
-### Utilities & Mini Projects
-- QR code generator
-- Sudoku validator
-- Logic-based brute-force scripts
-- Pygame-based game
-
-More projects are available in my repositories.
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Django](https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![MongoDB](https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-## Current Focus
+## 🌐 Connect With Me
 
-- Writing cleaner backend architecture
-- Improving API design with FastAPI
-- Strengthening problem-solving skills
-- Preparing for backend-focused interviews
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lalit-meena-996aa7238/)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raritto-1)
 
 ---
 
-## Connect
+## 📊 GitHub Stats
 
-- GitHub: https://github.com/raritto-1  
-- LinkedIn: https://www.linkedin.com/in/lalit-meena-996aa7238/
+![](https://github-readme-stats.vercel.app/api?username=raritto-1&theme=dark&hide_border=false)
+![](https://nirzak-streak-stats.vercel.app/?user=raritto-1&theme=dark&hide_border=false)
 
 ---
 
-*This profile reflects real work, real learning, and real progress — not tutorial copy-paste.*
+[![](https://visitcount.itsvg.in/api?id=raritto-1&icon=0&color=0)](https://visitcount.itsvg.in)
