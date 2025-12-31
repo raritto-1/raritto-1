@@ -1,15 +1,18 @@
-Lalit Meena / README.md
+# 💫 About Me:
+# Lalit Meena<br><br>Python Developer | Backend & Data-Oriented Projects<br><br>---<br><br>## About Me<br><br>I build backend systems and data-focused applications using Python. I’ve worked with Django, Flask, FastAPI, SQL, and pandas, and I’m comfortable moving between web backends and data-processing scripts. I don’t chase buzzwords—I focus on writing code that actually works and can be extended without turning into a mess.<br><br>If something is broken, I debug it. If something is slow, I profile it. If something is unclear, I simplify it.<br><br>---<br><br>## Tech Stack<br><br>**Languages**<br><br>* Python<br>* SQL<br><br>**Frameworks & Tools**<br><br>* Django<br>* Flask<br>* FastAPI<br>* Pandas<br>* Matplotlib<br>* MongoDB<br>* Git & GitHub<br><br>**Concepts**<br><br>* REST APIs<br>* CRUD applications<br>* Authentication & authorization basics<br>* Data analysis & visualization<br>* Backend logic design<br><br>---<br><br>## Projects<br><br>### Transaction Tracker<br><br>A Python project using pandas and matplotlib to track income and expenses with dates.<br><br>* CSV-based data storage<br>* Expense categorization<br>* Basic visualizations<br><br>### Django Web Applications<br><br>Multiple Django projects with:<br><br>* Form handling<br>* Database models & migrations<br>* Search functionality<br>* Responsive UI using Bootstrap<br><br>### Flask Task Manager<br><br>A clean CRUD-based task management app following DRY principles.<br><br>### Utilities & Mini Projects<br><br>* QR code generator<br>* Sudoku validator<br>* Simple brute-force logic scripts<br>* Pygame-based game<br><br>More projects are available in my repositories.<br><br>---<br><br>## What I’m Focused On<br><br>* Writing cleaner backend architecture<br>* Improving API design with FastAPI<br>* Strengthening problem-solving and logic<br>* Preparing for backend-focused interviews<br><br>---<br><br>## GitHub Stats<br><br>I care more about consistency and learning than green squares. Repositories here reflect practice, experimentation, and real problem-solving—not tutorial copy-paste.<br><br>---<br><br>## Contact<br><br>* GitHub: [https://github.com/raritto-1](https://github.com/raritto-1)<br><br>---<br><br>If you’re looking for flashy buzzwords, this profile isn’t it. If you’re looking for someone who actually writes and fixes code, you’re in the right place.<br>
 
-Hi, I’m Lalit Meena
-Python backend developer focused on building practical web applications and data-driven tools.
 
-I work mainly with Django, Flask, and FastAPI, and I have hands-on experience with SQL, pandas, and backend logic design. Most of my work revolves around CRUD systems, APIs, and small utilities that solve real problems.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/lalit-meena-996aa7238/) 
 
-🔭 I’m currently working on backend projects using Django and FastAPI
-🌱 I’m improving my API design skills and strengthening backend fundamentals
-👯 I’m open to collaborating on Python backend or data-related projects
-💬 Ask me about Python, Django, Flask, FastAPI, SQL, or pandas
-📫 Reach me on GitHub: https://github.com/raritto-1
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=raritto-1&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=raritto-1&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=raritto-1&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-Languages and Tools:
-Python, SQL, Django, Flask, FastAPI, Pandas, Matplotlib, MongoDB, Git, GitHub, Bootstrap
+---
+[![](https://visitcount.itsvg.in/api?id=raritto-1&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
