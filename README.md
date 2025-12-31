@@ -1,18 +1,92 @@
-# 💫 About Me:
-# Lalit Meena<br><br>Python Developer | Backend & Data-Oriented Projects<br><br>---<br><br>## About Me<br><br>I build backend systems and data-focused applications using Python. I’ve worked with Django, Flask, FastAPI, SQL, and pandas, and I’m comfortable moving between web backends and data-processing scripts. I don’t chase buzzwords—I focus on writing code that actually works and can be extended without turning into a mess.<br><br>If something is broken, I debug it. If something is slow, I profile it. If something is unclear, I simplify it.<br><br>---<br><br>## Tech Stack<br><br>**Languages**<br><br>* Python<br>* SQL<br><br>**Frameworks & Tools**<br><br>* Django<br>* Flask<br>* FastAPI<br>* Pandas<br>* Matplotlib<br>* MongoDB<br>* Git & GitHub<br><br>**Concepts**<br><br>* REST APIs<br>* CRUD applications<br>* Authentication & authorization basics<br>* Data analysis & visualization<br>* Backend logic design<br><br>---<br><br>## Projects<br><br>### Transaction Tracker<br><br>A Python project using pandas and matplotlib to track income and expenses with dates.<br><br>* CSV-based data storage<br>* Expense categorization<br>* Basic visualizations<br><br>### Django Web Applications<br><br>Multiple Django projects with:<br><br>* Form handling<br>* Database models & migrations<br>* Search functionality<br>* Responsive UI using Bootstrap<br><br>### Flask Task Manager<br><br>A clean CRUD-based task management app following DRY principles.<br><br>### Utilities & Mini Projects<br><br>* QR code generator<br>* Sudoku validator<br>* Simple brute-force logic scripts<br>* Pygame-based game<br><br>More projects are available in my repositories.<br><br>---<br><br>## What I’m Focused On<br><br>* Writing cleaner backend architecture<br>* Improving API design with FastAPI<br>* Strengthening problem-solving and logic<br>* Preparing for backend-focused interviews<br><br>---<br><br>## GitHub Stats<br><br>I care more about consistency and learning than green squares. Repositories here reflect practice, experimentation, and real problem-solving—not tutorial copy-paste.<br><br>---<br><br>## Contact<br><br>* GitHub: [https://github.com/raritto-1](https://github.com/raritto-1)<br><br>---<br><br>If you’re looking for flashy buzzwords, this profile isn’t it. If you’re looking for someone who actually writes and fixes code, you’re in the right place.<br>
+# Lalit Meena
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/lalit-meena-996aa7238/) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=raritto-1&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=raritto-1&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=raritto-1&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+Python Backend Developer  
+Focused on building practical web applications and data-driven tools.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=raritto-1&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## About Me
+
+I build backend systems using Python, with experience across Django, Flask, and FastAPI.  
+My work includes REST APIs, CRUD-based applications, and data-processing scripts using SQL and pandas.
+
+I care about clean logic, maintainable code, and understanding problems deeply instead of chasing buzzwords.
+
+If something breaks, I debug it.  
+If something is slow, I profile it.  
+If something is unclear, I simplify it.
+
+---
+
+## Tech Stack
+
+**Languages**
+- Python
+- SQL
+
+**Frameworks & Libraries**
+- Django
+- Flask
+- FastAPI
+- Pandas
+- Matplotlib
+
+**Tools & Databases**
+- MongoDB
+- Git & GitHub
+- Bootstrap
+
+**Concepts**
+- REST APIs
+- CRUD Applications
+- Authentication & Authorization (Basics)
+- Backend Logic Design
+- Data Analysis & Visualization
+
+---
+
+## Projects
+
+### Transaction Tracker
+Python-based project using pandas and matplotlib to track income and expenses.
+- CSV-based storage
+- Expense categorization
+- Basic visualizations
+
+### Django Web Applications
+Multiple Django projects featuring:
+- Forms and validations
+- Models & migrations
+- Search functionality
+- Responsive UI with Bootstrap
+
+### Flask Task Manager
+A clean CRUD task management application following DRY principles.
+
+### Utilities & Mini Projects
+- QR code generator
+- Sudoku validator
+- Logic-based brute-force scripts
+- Pygame-based game
+
+More projects are available in my repositories.
+
+---
+
+## Current Focus
+
+- Writing cleaner backend architecture
+- Improving API design with FastAPI
+- Strengthening problem-solving skills
+- Preparing for backend-focused interviews
+
+---
+
+## Connect
+
+- GitHub: https://github.com/raritto-1  
+- LinkedIn: https://www.linkedin.com/in/lalit-meena-996aa7238/
+
+---
+
+*This profile reflects real work, real learning, and real progress — not tutorial copy-paste.*
